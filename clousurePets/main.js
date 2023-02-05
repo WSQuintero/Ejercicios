@@ -6,12 +6,11 @@ function createPetList() {
         return list;
       }else{
         return list;
-      }
-        
+      }  
     }
     
     return listPet;
-}
+} 
 
 const myPetList = createPetList();
 
